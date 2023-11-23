@@ -14,3 +14,7 @@
 >**_Skills:_**
 >
 >Data Manipulation
+>
+>**_Technologies:_**
+>
+>PostgreSQL | SQL
