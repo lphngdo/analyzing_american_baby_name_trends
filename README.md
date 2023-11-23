@@ -9,3 +9,8 @@
 6. [X] Many males with the same name
 7. [X] Top male names over the years
 8. [X] The most years at number one
+
+>[!NOTE]
+>**_Skills:_**
+>
+>Data Manipulation
